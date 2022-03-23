@@ -1,1 +1,1 @@
-# myVendingMachine
+# Lloyds - Demo
