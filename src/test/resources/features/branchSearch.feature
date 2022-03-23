@@ -8,6 +8,6 @@ Scenario Outline: As a user, I should be search for a branch on the Lloyds page
 	Then I should see branch page with "<branchName>", "<branchAddress>", "<daysTheBranchIsClosed>" 
 	Examples: 
 		|searchWord|branchName|branchAddress|daysTheBranchIsClosed|
-		|Halifax|Keighley|54 North Street Keighley BD21 3SJ|Saturday,Sunday|
+		|Halifax|Keighley|54 North Street Keighley BD21 3SJ|Tuesday,Saturday,Sunday|
 		
 		
